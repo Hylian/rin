@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "Rin3")(type KiCad)(uri "$(KIPRJMOD)/Rin3.pretty")(options "")(descr ""))
+)
